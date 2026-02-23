@@ -46,3 +46,4 @@ pypdf==6.7.1
 # ---- AI Tools ----
 # Grants the AI the ability to search the live internet.
 duckduckgo-search==3.9.11
+ddgs==9.8.0
