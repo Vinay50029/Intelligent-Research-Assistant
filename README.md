@@ -1,6 +1,6 @@
 ---
 title: Intelligent Research Assistant
-emoji: 🦀
+emoji: �
 colorFrom: blue
 colorTo: pink
 sdk: streamlit
